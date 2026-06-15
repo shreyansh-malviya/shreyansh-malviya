@@ -64,3 +64,6 @@ $ ls skills/
 <p align="center">
   <sub>project-based learning &nbsp;·&nbsp; hardware + software, no ceiling</sub>
 </p>
+
+
+<p align="center">⭐️  If you like my work, feel free to <a href="https://github.com/shreyansh-malviya?tab=repositories">star</a> a repo! ⭐️</p>
